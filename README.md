@@ -125,7 +125,11 @@ Backend Engineer Roadmap from zero to one.
       - Sharding
   4. Type
       - SQL
+          - Postgres
+          - MySQL
       - No SQL
+          - MongoDB
+          - Elastic Search
 
 ## API
 
@@ -152,6 +156,7 @@ Backend Engineer Roadmap from zero to one.
   2. Jenkins
   3. Grafana
   4. Kibana
+  5. Logstash
 
 ## Security    
 
