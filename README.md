@@ -87,29 +87,29 @@ Backend Engineer Roadmap from zero to one.
 ## Programming Language
 
   1. Golang
-    1. Basic syntax
-    2. I/O
-        - Reader
-        - Writer
-        - Scanner
-        - Stream
-    3. Concurrency
-        - Goroutine
-        - Channel
-        - Select
-        - Sync Package
-          - Wait group
-          - Mutex
-    4. Low Level
-        - Go runtime scheduler
+      1. Basic syntax
+      2. I/O
+          - Reader
+          - Writer
+          - Scanner
+          - Stream
+      3. Concurrency
+          - Goroutine
+          - Channel
+          - Select
+          - Sync Package
+            - Wait group
+            - Mutex
+      4. Low Level
+          - Go runtime scheduler
 
   2. NodeJS
-    1. Basic syntax
-    2. Concurrency
-        - Promise all
-        - Child process
-    3. Low Level
-        - Non blocking I/O, single thread event loop
+      1. Basic syntax
+      2. Concurrency
+          - Promise all
+          - Child process
+      3. Low Level
+          - Non blocking I/O, single thread event loop
 
 ## Database
 
