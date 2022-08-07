@@ -4,15 +4,15 @@ Backend Engineer Roadmap from zero to one.
 
 ## Table of Contents
 
-  1. [Big O(n) Notation](#big-on)
-  2. [Algorithm](#blogs)
-  3. [Data Structure](#videos)
-  4. [Software Architecture](#tools)
-  5. [Programming Language](#cases)
-  6. [Database](#cases)
-  7. [API](#cases)
-  8. [Microservices](#cases)
-  9. [DevOps](#cases)
+  1. [Big O(n) Notation](#big-on-notation)
+  2. [Algorithm](#algorithm)
+  3. [Data Structure](#data-structure)
+  4. [Software Architecture](#software-architecture)
+  5. [Programming Language](#programming-language)
+  6. [Database](#database)
+  7. [API](#api)
+  8. [Microservices](#microservices)
+  9. [DevOps](#devops)
   10. [Security](#cases)
 
 ## Big O(n) Notation
@@ -27,78 +27,105 @@ Backend Engineer Roadmap from zero to one.
 
   1. Recursion
   2. Search 
-    - Linear Search
-    - Binary Search
-    - Depth First Search
-    - Breadth First Search
+      - Linear Search
+      - Binary Search
+      - Depth First Search
+      - Breadth First Search
   3. Sort
-    - Bubble Sort
-    - Merge Sort
-    - Quick Sort
-    - Insertion Sort
-    - Selection Sort
+      - Bubble Sort
+      - Merge Sort
+      - Quick Sort
+      - Insertion Sort
+      - Selection Sort
   4. Concurrency
-    - Multithreading
-    - Multiprocessing
+      - Multithreading
+      - Multiprocessing
 
 ## Data Structure
 
   1. Array
   2. LinkedList
-    - Single LinkedList
-    - Double LinkedList
-    - Circular LinkedList
+      - Single LinkedList
+      - Double LinkedList
+      - Circular LinkedList
   3. Stack & Queue
   4. Tree
-    - Tree Data Structure
-    - Tree Traversal
-    - Binary Search Tree Data Structure
-    - Heap Data Structure
-      - Min Heap
-      - Max Heap
+      - Tree Data Structure
+      - Tree Traversal
+      - Binary Search Tree Data Structure
+      - Heap Data Structure
+        - Min Heap
+        - Max Heap
   5. Graph
-    - Graph Data Structure
-    - DFS Traversal
-    - BFS Traversal
+      - Graph Data Structure
+      - DFS Traversal
+      - BFS Traversal
   6. Hash
-    - Hash Map Data Structure
+      - Hash Map Data Structure
 
 ## Software Architecture
 
   1. Paradigm
-    - Object Oriented Programming
-      - Encaptulation
-      - Abstraction
-      - Inheritance
-      - Polymorphism
-    - Procedural Programming
+      - Object Oriented Programming
+        - Encaptulation
+        - Abstraction
+        - Inheritance
+        - Polymorphism
+      - Procedural Programming
   2. Principle
-    - SOLID Principle
-    - ACID Principle
+      - SOLID Principle
+      - ACID Principle
   3. Architecture
-    - Clean Architecture
-    - Hexagonal Architecture
+      - Clean Architecture
+      - Hexagonal Architecture
   4. Design Pattern
-    - Singleton
-    - Factory
-    - Builder
-    - Repository
+      - Singleton
+      - Factory
+      - Builder
+      - Repository
+
+## Programming Language
+
+  1. Golang
+    1. Basic syntax
+    2. I/O
+        - Reader
+        - Writer
+        - Scanner
+        - Stream
+    3. Concurrency
+        - Goroutine
+        - Channel
+        - Select
+        - Sync Package
+          - Wait group
+          - Mutex
+    4. Low Level
+        - Go runtime scheduler
+
+  2. NodeJS
+    1. Basic syntax
+    2. Concurrency
+        - Promise all
+        - Child process
+    3. Low Level
+        - Non blocking I/O, single thread event loop
 
 ## Database
 
   1. ACID
   2. Transaction Isolation Level
-    - Serializable
-    - Repeateble Read
-    - Read Commited
-    - Read Uncommited
+      - Serializable
+      - Repeateble Read
+      - Read Commited
+      - Read Uncommited
   3. Optimization
-    - Indexing
-    - Replication
-    - Sharding
+      - Indexing
+      - Replication
+      - Sharding
   4. Type
-    - SQL
-    - No SQL
+      - SQL
+      - No SQL
 
 ## API
 
@@ -109,9 +136,9 @@ Backend Engineer Roadmap from zero to one.
   5. Stream
   6. Sftp
   7. Pubsub
-    - Kafka
-    - RabbitMQ
-    - Google Pubsub
+      - Kafka
+      - RabbitMQ
+      - Google Pubsub
 
 ## Microservices    
 
@@ -119,7 +146,7 @@ Backend Engineer Roadmap from zero to one.
   2. API Driven
   3. Event Driven
 
-## Deployment    
+## DevOps    
 
   1. Kubernetes
   2. Jenkins
