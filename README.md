@@ -166,7 +166,7 @@ Backend Engineer Roadmap from zero to one.
   9. Linux Basic Security
   10. Docker Container Security
 
-## [Contributing](contributing.md)
+## Contributing
 
 Your contributions are always welcome.
 
