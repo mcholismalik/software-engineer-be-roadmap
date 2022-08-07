@@ -79,10 +79,19 @@ Backend Engineer Roadmap from zero to one.
       - Clean Architecture
       - Hexagonal Architecture
   4. Design Pattern
-      - Singleton
-      - Factory
-      - Builder
-      - Repository
+      - Creational
+          - Abstract Factory
+          - Builder
+          - Singleton
+          - Prototype
+      - Structural
+          - Adapter
+          - Bridge
+          - Composite
+          - Facade
+      - Behavioral
+          - Command
+          - Observer
 
 ## Programming Language
 
@@ -91,7 +100,6 @@ Backend Engineer Roadmap from zero to one.
       2. I/O
           - Reader
           - Writer
-          - Scanner
           - Stream
       3. Concurrency
           - Goroutine
@@ -105,10 +113,14 @@ Backend Engineer Roadmap from zero to one.
 
   2. NodeJS
       1. Basic syntax
-      2. Concurrency
+      2. I/O
+          - Reader
+          - Writer
+          - Stream
+      4. Concurrency
           - Promise all
           - Child process
-      3. Low Level
+      5. Low Level
           - Non blocking I/O, single thread event loop
 
 ## Database
