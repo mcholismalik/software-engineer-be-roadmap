@@ -135,6 +135,7 @@ Backend engineer roadmap from zero to one.
       - Indexing
       - Replication
       - Sharding
+          - Consistent Hashing
   4. Type
       - SQL
           - Postgres
