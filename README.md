@@ -1,6 +1,6 @@
 # Backend Engineer Roadmap
 
-Backend Engineer Roadmap from zero to one.
+Backend engineer roadmap from zero to one.
 
 ## Table of Contents
 
