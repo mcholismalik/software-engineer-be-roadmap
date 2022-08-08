@@ -165,11 +165,15 @@ Backend engineer roadmap from zero to one.
 
 ## DevOps    
 
-  1. Kubernetes
-  2. Jenkins
-  3. Grafana
-  4. Kibana
-  5. Logstash
+  1. Container
+      - Kubernetes
+      - Docker
+  2. CI/CD
+      - Jenkins
+  3. Ops
+      - Grafana 
+      - Kibana
+      - Logstash
 
 ## Security    
 
