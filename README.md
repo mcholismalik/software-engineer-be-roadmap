@@ -155,14 +155,16 @@ Backend engineer roadmap from zero to one.
   6. Sftp
   7. Pubsub
       - Kafka
-      - RabbitMQ
       - Google Pubsub
+  8. Queue
+      - RabbitMQ
 
 ## Microservices    
 
   1. Monolith
   2. API Driven
   3. Event Driven
+  4. CAP theorem
   
 ## Test
 
