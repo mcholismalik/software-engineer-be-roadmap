@@ -191,6 +191,8 @@ Backend engineer roadmap from zero to one.
   4. XSS
   5. Validation
   6. Encryption
+      - Symetrical
+      - Asymetrical
   7. Race Condition
   8. Docker Security
   9. Linux Security
