@@ -148,7 +148,7 @@ Backend engineer roadmap from zero to one.
 ## API
 
   1. TCP / UDP
-  2. Rest / http API
+  2. Rest API
   3. Grpc
   4. Websocket
   5. Graphql
