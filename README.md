@@ -147,16 +147,17 @@ Backend engineer roadmap from zero to one.
 
 ## API
 
-  1. Rest
-  2. Grpc
-  3. Websocket
-  4. Graphql
-  5. Stream
-  6. Sftp
-  7. Pubsub
+  1. TCP / UDP
+  2. Rest / http API
+  3. Grpc
+  4. Websocket
+  5. Graphql
+  6. Stream
+  7. Sftp
+  8. Pubsub
       - Kafka
       - Google Pubsub
-  8. Queue
+  9. Queue
       - RabbitMQ
 
 ## Microservices    
