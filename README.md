@@ -198,8 +198,8 @@ Backend engineer roadmap from zero to one.
       - Symetrical
       - Asymetrical
   7. Race Condition :fire:
-  8. Docker Security :fire:
-  9. Linux Security :fire:
+      - CAS (Compare And Swap)
+      - Locking (Optimistic & Pessimistic)
   
 ## Contributing
 
