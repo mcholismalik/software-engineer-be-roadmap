@@ -54,7 +54,7 @@ Backend engineer roadmap from zero to one.
       - Single LinkedList
       - Double LinkedList
       - Circular LinkedList
-  3. Stack & Queue :star:
+  3. Stack, Queue & Heap :star:
   4. Tree :snowflake:
       - Tree Data Structure
       - Tree Traversal
