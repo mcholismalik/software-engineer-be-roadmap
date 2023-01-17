@@ -149,6 +149,8 @@ Backend engineer roadmap from zero to one.
       - No SQL :fire:
           - MongoDB
           - Elastic Search
+      - Cache
+          - Redis
 
 ## API
 
