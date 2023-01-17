@@ -35,6 +35,7 @@ Backend engineer roadmap from zero to one.
       - Binary Search :star:
       - Depth First Search :fire:
       - Breadth First Search :fire:
+      - Backtracking :fire:
   3. Sort
       - Bubble Sort :star:
       - Insertion Sort :star:
