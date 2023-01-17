@@ -44,6 +44,7 @@ Backend engineer roadmap from zero to one.
   4. Concurrency :fire:
       - Multithreading
       - Multiprocessing
+  5. Dynamic Programming :fire:
 
 ## Data Structure
 
