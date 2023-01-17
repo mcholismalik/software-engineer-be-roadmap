@@ -16,8 +16,9 @@ Backend engineer roadmap from zero to one.
   7. [API](#api)
   8. [Test](#test)
   9. [Microservices](#microservices)
-  10. [DevOps](#devops)
-  11. [Security](#security)
+  10. [System Design](#system-design)
+  11. [DevOps](#devops)
+  12. [Security](#security)
 
 ## Big O(n) Notation
 
@@ -176,6 +177,12 @@ Backend engineer roadmap from zero to one.
 
   1. Unit Test :star:
   2. Integration Test :star:
+
+## System Design
+
+  1. Load Balancer :star:
+  2. Caching Test :star:
+  3. Rate Limiter :star:
 
 ## DevOps    
 
