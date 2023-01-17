@@ -16,9 +16,8 @@ Backend engineer roadmap from zero to one.
   7. [API](#api)
   8. [Test](#test)
   9. [Microservices](#microservices)
-  10. [System Design](#system-design)
-  11. [DevOps](#devops)
-  12. [Security](#security)
+  10. [DevOps](#devops)
+  11. [Security](#security)
 
 ## Big O(n) Notation
 
@@ -172,17 +171,13 @@ Backend engineer roadmap from zero to one.
   2. API Driven :star:
   3. Event Driven :fire:
   4. CAP theorem :fire:
+  5. Load Balancer
+  6. Rate Limiter
   
 ## Test
 
   1. Unit Test :star:
   2. Integration Test :star:
-
-## System Design
-
-  1. Load Balancer :star:
-  2. Caching Test :star:
-  3. Rate Limiter :star:
 
 ## DevOps    
 
