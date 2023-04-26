@@ -113,6 +113,7 @@ Backend engineer roadmap from zero to one.
             - Wait group
             - Mutex
       4. Low Level :fire:
+          - Garbage collector
           - Go runtime scheduler
           - Goroutine queues
           - Stealing work
