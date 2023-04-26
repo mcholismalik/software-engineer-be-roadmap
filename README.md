@@ -191,6 +191,7 @@ Backend engineer roadmap from zero to one.
   2. CI/CD
       - Jenkins :snowflake:
   3. Ops :fire:
+      - Git flow 
       - Grafana 
       - Kibana
       - Logstash
