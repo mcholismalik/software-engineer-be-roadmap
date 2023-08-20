@@ -61,7 +61,7 @@ Backend engineer roadmap from zero to one.
   5. **Tree** :snowflake: 
       - **Tree**  Hierarchical data structure with nodes and edges.
       - **Binary Tree** Tree where each node has at most two children.
-      - **Binary Search Tree**: Type of binary tree with ordered values for efficient searching.
+      - **Binary Search Tree** Type of binary tree with ordered values for efficient searching.
       - **Heap** Is a specialized binary tree-based structure used for priority queues and efficient access to extreme values.
   7. **Graph** :fire: Versatile data structure that consists of a set of nodes (vertices) connected by edges. 
   8. **Hash** :fire: Fundamental data structure used for efficient data storage, retrieval, and manipulation.
