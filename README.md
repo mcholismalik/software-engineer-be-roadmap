@@ -176,6 +176,8 @@ Backend engineer roadmap from zero to one.
   4. CAP theorem :fire:
   5. Load Balancer
   6. Rate Limiter
+  7. Single Flight
+  8. Circuit Breaker
   
 ## Test
 
