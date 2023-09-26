@@ -210,6 +210,7 @@ Backend engineer roadmap from zero to one.
   7. Race Condition :fire:
       - CAS (Compare And Swap)
       - Locking (Optimistic & Pessimistic)
+      - Deadlock
   
 ## Contributing
 
