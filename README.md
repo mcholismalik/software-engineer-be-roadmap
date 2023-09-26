@@ -125,10 +125,15 @@ Backend engineer roadmap from zero to one.
           - Writer :star:
           - Stream :fire:
       4. Concurrency
-          - Promise all :star:
+          - Promise :star:
+          - Clustering :fire:
           - Child process :fire:
       5. Low Level :fire:
-          - Non blocking I/O, single thread event loop
+          - Event queue
+          - Event loop
+          - Thread pool
+          - Callback
+          - Promise
 
 ## Database
 
