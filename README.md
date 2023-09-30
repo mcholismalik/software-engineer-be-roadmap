@@ -199,7 +199,7 @@ Backend engineer roadmap from zero to one.
   8. Logging
      - Datadog
      - Logstash
-  10. Monitoring
+  9. Monitoring
      - Prometheus
      - Grafana
      - Pyroscope
