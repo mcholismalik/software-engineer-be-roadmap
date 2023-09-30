@@ -13,9 +13,9 @@ Backend engineer roadmap from zero to one.
   4. [Software Architecture](#software-architecture)
   5. [Programming Language](#programming-language)
   6. [Database](#database)
-  7. [API](#api)
+  7. [Protocol](#protocol)
   8. [Test](#test)
-  9. [Microservices](#microservices)
+  9. [Distributed System](#distributed-system)
   10. [DevOps](#devops)
   11. [Security](#security)
 
