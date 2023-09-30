@@ -153,10 +153,13 @@ Backend engineer roadmap from zero to one.
           - Postgres
           - MySQL
       - No SQL :fire:
-          - MongoDB
+          - MongoDb
           - Elastic Search
-      - Cache
+      - Memory
           - Redis
+          - Memcached
+      - Distributed
+          - Debezium
 
 ## API
 
@@ -167,27 +170,37 @@ Backend engineer roadmap from zero to one.
   5. Graphql :snowflake:
   6. Stream :fire:
   7. Sftp :star:
-  8. Pubsub :fire:
-      - Kafka
-      - Google Pubsub
-  9. Queue :fire:
-      - RabbitMQ
+     
+## Distributed System
 
-## Microservices    
-
-  1. Monolith :star:
-  2. API Driven :star:
-  3. Event Driven :fire:
-  4. CAP theorem :fire:
+  1. Microservices
+     - Monolith :star:
+     - API Driven :star:
+     - Event Driven :fire:
+       - Pubsub
+         - Kafka
+       - Queue
+         - Rabbit MQ
+  2. Database
+     - CAP theorem :fire:
+     - Eventually Consistency
+  3. Race Condition
+     - Optimistic Locking
+     - Pessimistic Locking
   5. Load Balancer
-  6. Rate Limiter
-  7. Single Flight
-  8. Circuit Breaker
+     - Round robin
+     - Worker pool
+  6. Thorttling
+     - Rate Limiter
+     - Single Flight
+     - Idempoten
+     - Circuit Breaker
   
 ## Test
 
   1. Unit Test :star:
-  2. Integration Test :star:
+  2. Functional Test
+  3. Integration Test :star:
 
 ## DevOps    
 
@@ -212,10 +225,6 @@ Backend engineer roadmap from zero to one.
   6. Encryption :snowflake:
       - Symetrical
       - Asymetrical
-  7. Race Condition :fire:
-      - CAS (Compare And Swap)
-      - Locking (Optimistic & Pessimistic)
-      - Deadlock
   
 ## Contributing
 
