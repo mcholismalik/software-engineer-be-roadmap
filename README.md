@@ -192,16 +192,16 @@ Backend engineer roadmap from zero to one.
      - Worker pool
   6. Thorttling
      - Rate Limiter
-     - Single Flight
-     - Idempoten
      - Circuit Breaker
+  7. Fussioning
      - Request Coalescing
-  7. Logging
+     - Idempotency
+  8. Logging
      - Datadog
      - Logstash
-  9. Tracing
-     - Grafana
+  10. Monitoring
      - Prometheus
+     - Grafana
      - Pyroscope
      - Jeager
   
