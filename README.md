@@ -193,9 +193,10 @@ Backend engineer roadmap from zero to one.
   6. Thorttling
      - Rate Limiter
      - Circuit Breaker
-  7. Fussioning
+  7. Fusing
      - Request Coalescing
      - Idempotency
+     - Batch Processing
   8. Logging
      - Datadog
      - Logstash
