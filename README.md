@@ -195,6 +195,7 @@ Backend engineer roadmap from zero to one.
      - Single Flight
      - Idempoten
      - Circuit Breaker
+     - Request Coalescing
   7. Logging
      - Datadog
      - Logstash
