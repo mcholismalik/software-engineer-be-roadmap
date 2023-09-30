@@ -137,7 +137,7 @@ Backend engineer roadmap from zero to one.
 
 ## Database
 
-  1. ACID :snowflake:
+  1. ACID Principle :snowflake:
   2. Transaction Isolation Level :snowflake:
       - Serializable
       - Repeateble Read
@@ -161,7 +161,7 @@ Backend engineer roadmap from zero to one.
       - Distributed
           - Debezium
 
-## API
+## Protocol
 
   1. TCP / UDP :snowflake:
   2. Rest API :star:
@@ -195,6 +195,14 @@ Backend engineer roadmap from zero to one.
      - Single Flight
      - Idempoten
      - Circuit Breaker
+  7. Logging
+     - Datadog
+     - Logstash
+  9. Tracing
+     - Grafana
+     - Prometheus
+     - Pyroscope
+     - Jeager
   
 ## Test
 
@@ -211,9 +219,6 @@ Backend engineer roadmap from zero to one.
       - Jenkins :snowflake:
   3. Ops :fire:
       - Git flow 
-      - Grafana 
-      - Kibana
-      - Logstash
 
 ## Security    
 
