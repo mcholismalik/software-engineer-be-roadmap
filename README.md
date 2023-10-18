@@ -120,6 +120,8 @@ Backend engineer roadmap from zero to one.
 
   2. NodeJS
       1. Basic syntax :star:
+          - Closure
+          - Interpolation
       2. I/O
           - Reader :star:
           - Writer :star:
@@ -221,6 +223,7 @@ Backend engineer roadmap from zero to one.
       - Jenkins :snowflake:
   3. Ops :fire:
       - Git flow 
+  4. Serverless :fire:
 
 ## Security    
 
