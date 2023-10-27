@@ -195,9 +195,10 @@ Backend engineer roadmap from zero to one.
      - Monolith :star:
      - API Driven :star:
      - Event Driven :fire:
-       - Pubsub
+       - Stream
          - Kafka
-         - Google Pubsub
+         - Flink
+         - Spark
        - Queue
          - Rabbit MQ
   3. Database
