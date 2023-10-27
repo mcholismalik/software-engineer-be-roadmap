@@ -46,6 +46,7 @@ Backend engineer roadmap from zero to one.
       - **Multiprocessing** Independent processes run concurrently, with their own memory spaces.
   5. **Dynamic Programming** :fire: Breaking them into smaller subproblems, solving each subproblem only once, and storing the results to avoid redundancy.
   6. **Backtracking** :fire: Solving a tricky puzzle by trying different moves and undoing them if they don't work, until you find the right sequence of moves.
+  7. **Greedy**
    
 ## Data Structure
 
