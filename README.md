@@ -36,19 +36,16 @@ Backend engineer roadmap from zero to one.
       - **Tree Traversal** :star: Methods to visit nodes in a specific order (in-order, pre-order, post-order).
       - **Depth First Search** :fire: Explores as far as possible along a branch before backtracking
       - **Breadth First Search** :fire: Explores all the neighbors of a node before moving to their child nodes.
-      - **Backtracking** :fire: Solving a tricky puzzle by trying different moves and undoing them if they don't work, until you find the right sequence of moves.
   3. **Sort**
       - **Bubble Sort** :star: Comparing and swapping adjacent elements until the list is sorted.
-      - **Insertion Sort** :star: Building a sorted list by inserting elements into their correct positions.
-      - **Selection Sort** :star: Selecting the smallest item and placing it in the sorted portion
-      - **Merge Sort** :snowflake: Divides the list into tiny parts, sorts each part, and then puts them together to make a sorted list.
       - **Quick Sort** :snowflake: Quickly rearranges the list by picking a number and sorting the list around it, and it keeps doing this until the whole list is sorted.
+      - **Merge Sort** :snowflake: Divides the list into tiny parts, sorts each part, and then puts them together to make a sorted list
   4. **Parallelism** :fire:
       - **Concurrent** Make progress simultaneously, providing the illusion of parallelism.
       - **Multithreading** Multiple threads within a single process run concurrently and share memory.
       - **Multiprocessing** Independent processes run concurrently, with their own memory spaces.
   5. **Dynamic Programming** :fire: Breaking them into smaller subproblems, solving each subproblem only once, and storing the results to avoid redundancy.
-  6. **Backtracking** :fire: Do tracking into solution if we not found the solution we do back then find the other, its why called back tracking
+  6. **Backtracking** :fire: Solving a tricky puzzle by trying different moves and undoing them if they don't work, until you find the right sequence of moves.
    
 ## Data Structure
 
@@ -66,6 +63,7 @@ Backend engineer roadmap from zero to one.
       - **Heap** Is a specialized binary tree-based structure used for priority queues and efficient access to extreme values.
   7. **Graph** :fire: Versatile data structure that consists of a set of nodes (vertices) connected by edges. 
   8. **Hash** :fire: Fundamental data structure used for efficient data storage, retrieval, and manipulation.
+  9. **Bloom Filters** :fire:
 
 ## Software Architecture
 
@@ -75,32 +73,34 @@ Backend engineer roadmap from zero to one.
         - Abstraction
         - Inheritance
         - Polymorphism
-      - Procedural Programming
+      - Functional Programming
   2. Principle :snowflake:
       - SOLID Principle
-      - ACID Principle
-  3. Architecture :snowflake:
       - Clean Architecture
-      - Hexagonal Architecture
-  4. Design Pattern :fire:
+  3. Design Pattern :fire:
       - Creational
-          - Abstract Factory
+          - Factory
           - Builder
           - Singleton
           - Prototype
+      - Behavioral
+          - Observer
+          - Iterator
+          - Strategy
+          - Command
       - Structural
           - Adapter
+          - Facade
           - Bridge
           - Composite
-          - Facade
-      - Behavioral
-          - Command
-          - Observer
 
 ## Programming Language
 
   1. Golang
       1. Basic syntax :star:
+          - Struct
+          - Pointer
+          - Defer Recover
       2. I/O
           - Reader :star:
           - Writer :star:
@@ -140,7 +140,9 @@ Backend engineer roadmap from zero to one.
 
 ## Database
 
-  1. ACID Principle :snowflake:
+  1. Principle
+      - ACID Principle
+      - CAP Theorem
   2. Transaction Isolation Level :snowflake:
       - Serializable
       - Repeateble Read
@@ -150,6 +152,8 @@ Backend engineer roadmap from zero to one.
       - Indexing :snowflake:
       - Replication :snowflake:
       - Sharding :fire:
+          - Basic Hashing
+          - Geo Hashing
           - Consistent Hashing
   4. Type
       - SQL :star:
@@ -158,6 +162,7 @@ Backend engineer roadmap from zero to one.
       - No SQL :fire:
           - MongoDb
           - Elastic Search
+          - Cassandra
       - Memory
           - Redis
           - Memcached
@@ -167,27 +172,38 @@ Backend engineer roadmap from zero to one.
 ## Protocol
 
   1. TCP / UDP :snowflake:
-  2. Rest API :star:
-  3. Grpc :snowflake:
-  4. Websocket :fire:
-  5. Graphql :snowflake:
-  6. Stream :fire:
-  7. Sftp :star:
+  2. HTTP :star:
+  3. Rest API :star:
+  4. Grpc :snowflake:
+  5. Websocket :fire:
+  6. Graphql :snowflake:
+  7. Webhook :snowflake:
+  8. Sftp :star:
      
 ## Distributed System
 
-  1. Microservices
+  1. Pattern
+     - Ambassador
+       - Kubernetes Envoy 
+     - Circuit Breaker
+     - CQRS
+     - Event Sourcing
+     - Leader Election
+       - Zookeper
+     -  Sharding
+  2. Microservices
      - Monolith :star:
      - API Driven :star:
      - Event Driven :fire:
        - Pubsub
          - Kafka
+         - Google Pubsub
        - Queue
          - Rabbit MQ
-  2. Database
+  3. Database
      - CAP theorem :fire:
      - Eventually Consistency
-  3. Race Condition
+  4. Race Condition
      - Optimistic Locking
      - Pessimistic Locking
   5. Load Balancer
@@ -217,14 +233,24 @@ Backend engineer roadmap from zero to one.
 
 ## DevOps    
 
-  1. Container 
+  1. Scaling
+      - Vertical
+      - Horizontal
+  2. Load Balancer
+  3. CDN (Content Delivery Network)
+  4. TCP
+  5. IP Address
+  6. DNS
+  7. Proxy & Reverse Proxy
+  8. SSL, TLS, HTTPS
+  9. Container 
       - Docker :star:
       - Kubernetes :fire:
-  2. CI/CD
+  10. CI/CD
       - Jenkins :snowflake:
-  3. Ops :fire:
+  11. Ops :fire:
       - Git flow 
-  4. Serverless :fire:
+  12. Serverless :fire:
 
 ## Security    
 
