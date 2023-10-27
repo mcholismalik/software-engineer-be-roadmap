@@ -144,6 +144,7 @@ Backend engineer roadmap from zero to one.
   1. Principle
       - ACID Principle
       - CAP Theorem
+      - B-tree & B+ tree
   2. Transaction Isolation Level :snowflake:
       - Serializable
       - Repeateble Read
