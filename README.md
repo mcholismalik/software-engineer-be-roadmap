@@ -167,6 +167,7 @@ Backend engineer roadmap from zero to one.
           - MongoDb
           - Elastic Search
           - Cassandra
+          - Scylla
       - Memory
           - Redis
           - Memcached
