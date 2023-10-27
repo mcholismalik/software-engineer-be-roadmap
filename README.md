@@ -263,10 +263,11 @@ Backend engineer roadmap from zero to one.
 
   1. Authentication :star:
   2. Authorization :star:
-  3. CSRF :star:
-  4. XSS :star:
-  5. Validation :star:
-  6. Encryption :snowflake:
+  3. Oauth2
+  4. CSRF :star:
+  5. XSS :star:
+  6. Validation :star:
+  7. Encryption :snowflake:
       - Symetrical
       - Asymetrical
   
