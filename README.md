@@ -210,6 +210,7 @@ Backend engineer roadmap from zero to one.
   3. Database
      - CAP theorem :fire:
      - Eventually Consistency
+     - Connection Pool
   4. Race Condition
      - Optimistic Locking
      - Pessimistic Locking
