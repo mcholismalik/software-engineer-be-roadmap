@@ -174,12 +174,14 @@ Backend engineer roadmap from zero to one.
 
   1. TCP / UDP :snowflake:
   2. HTTP :star:
-  3. Rest API :star:
-  4. Grpc :snowflake:
-  5. Websocket :fire:
-  6. Graphql :snowflake:
-  7. Webhook :snowflake:
-  8. Sftp :star:
+     - HTTP/2
+     - HTTP/3
+  4. Rest API :star:
+  5. Grpc :snowflake:
+  6. Websocket :fire:
+  7. Graphql :snowflake:
+  8. Webhook :snowflake:
+  9. Sftp :star:
      
 ## Distributed System
 
