@@ -227,10 +227,13 @@ Backend engineer roadmap from zero to one.
   8. Logging
      - Datadog
      - Logstash
-  9. Monitoring
+  9. Monitoring & Alerting
      - Prometheus
      - Grafana
      - Pyroscope
+ 10. Tracking
+     - Open Telemetry
+     - Zipkin
      - Jeager
   
 ## Test
