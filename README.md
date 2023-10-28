@@ -153,8 +153,10 @@ Backend engineer roadmap from zero to one.
       - Read Uncommited
   3. Optimization
       - Indexing :fire:
-        - [B tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
-        - [B+ tree](https://www.baeldung.com/cs/b-trees-vs-btrees)
+        - B tree
+          - [B Trees and B+ Trees. How they are useful in Databases](https://www.youtube.com/watch?v=aZjYr87r1b8)
+        - B+ tree
+          - [The Difference Between B-trees and B+trees](https://www.baeldung.com/cs/b-trees-vs-btrees) 
         - LSM tree
           - [The Secret Sauce Behind NoSQL: LSM Tree](https://www.youtube.com/watch?v=I6jB0nM9SKU&t=46s)
           - [How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ) 
