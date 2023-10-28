@@ -101,46 +101,46 @@ Backend engineer roadmap from zero to one.
 ## Programming Language
 
   1. Golang
-      1. Basic syntax :star:
-          - Struct
-          - Pointer
-          - Defer Recover
-      2. I/O
-          - Reader :star:
-          - Writer :star:
-          - Stream :fire:
-      3. Concurrency
-          - Goroutine :star:
-          - Channel :snowflake:
-          - Select :snowflake:
-          - Sync Package :snowflake: 
-            - Wait group
-            - Mutex
-      4. Low Level :fire:
-          - Garbage collector
-          - Context switching
-          - Go runtime scheduler
-          - Goroutine queues
-          - Stealing work
+     - Basic syntax :star:
+        - Struct
+        - Pointer
+        - Defer Recover
+     - I/O
+        - Reader :star:
+        - Writer :star:
+        - Stream :fire:
+     - Concurrency
+        - Goroutine :star:
+        - Channel :snowflake:
+        - Select :snowflake:
+        - Sync Package :snowflake: 
+          - Wait group
+          - Mutex
+     - Low Level :fire:
+        - Garbage collector
+        - Context switching
+        - Go runtime scheduler
+        - Goroutine queues
+        - Stealing work
 
   2. NodeJS
-      1. Basic syntax :star:
-          - Closure
-          - Interpolation
-      2. I/O
-          - Reader :star:
-          - Writer :star:
-          - Stream :fire:
-      4. Concurrency
-          - Promise :star:
-          - Clustering :fire:
-          - Child process :fire:
-      5. Low Level :fire:
-          - Event queue
-          - Event loop
-          - Thread pool
-          - Callback
-          - Promise
+     - Basic syntax :star:
+        - Closure
+        - Interpolation
+     - I/O
+        - Reader :star:
+        - Writer :star:
+        - Stream :fire:
+     - Concurrency
+        - Promise :star:
+        - Clustering :fire:
+        - Child process :fire:
+     - Low Level :fire:
+        - Event queue
+        - Event loop
+        - Thread pool
+        - Callback
+        - Promise
 
 ## Database
 
