@@ -67,7 +67,8 @@ Backend engineer roadmap from zero to one.
   7. Graph :fire: 
   8. Hash :fire:
   9. Bloom Filters :fire:
-
+      - [Bloom Filters | Algorithms You Should Know #2 | Real-world Examples](https://www.youtube.com/watch?v=V3pzxngeLqw&t=84s)
+      - [Bloom Filters Explained by Example](https://www.youtube.com/watch?v=gBygn3cVP80&t=46s)
 ## Software Architecture
 
   1. Paradigm :star:
