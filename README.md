@@ -192,8 +192,7 @@ Backend engineer roadmap from zero to one.
 
   1. TCP / UDP :snowflake:
   2. HTTP :star:
-     - HTTP/2
-     - HTTP/3
+     - [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk&t=155s)
   4. Rest API :star:
   5. Grpc :snowflake:
   6. Websocket :fire:
