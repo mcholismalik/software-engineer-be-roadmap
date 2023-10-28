@@ -154,8 +154,8 @@ Backend engineer roadmap from zero to one.
       - Read Uncommited
   3. Optimization
       - Indexing :fire:
-        - B-tree
-        - B+ tree
+        - [B-tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
+        - [B+ tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
         - LSM tree
       - Replication :snowflake:
       - Sharding :fire:
