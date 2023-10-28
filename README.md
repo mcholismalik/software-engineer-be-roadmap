@@ -155,7 +155,7 @@ Backend engineer roadmap from zero to one.
       - Indexing :fire:
         - [B tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
         - [B+ tree](https://www.baeldung.com/cs/b-trees-vs-btrees)
-        - [LSM tree] (https://www.youtube.com/watch?v=I6jB0nM9SKU) 
+        - [LSM tree](https://www.youtube.com/watch?v=I6jB0nM9SKU) 
       - Replication :snowflake:
       - Sharding :fire:
           - Type
