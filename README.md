@@ -21,52 +21,53 @@ Backend engineer roadmap from zero to one.
 
 ## Big O(n) Notation
 
-  1. **O(1)** :star: Performance remains constant, regardless of input size.
-  2. **O(n)** :star: Performance grows linearly with input size.
-  3. **O(log n)** :fire: Performance grows logarithmically with input size, common in efficient searching algorithms.
-  4. **O(n log n)** :fire: Performance grows linearithmically, often seen in efficient sorting algorithms.
-  5. **O(n^2)** :star: Performance grows with the square of input size, common in nested loop situations.
+  1. O(1) :star:
+  2. O(n) :star:
+  3. O(log n) :fire:
+  4. O(n log n) :fire:
+  5. O(n^2) :star:
 
 ## Algorithm
 
-  1. **Recursion** :star: Recursion is a programming technique in which a function calls itself to solve a problem.
-  2. **Search** 
-      - **Linear Search** :star: Scanning through a list one element at a time to find a specific item.
-      - **Binary Search** :star: Efficiently finding an item in a sorted list by repeatedly dividing the search space in half.
-      - **Tree Traversal** :star: Methods to visit nodes in a specific order (in-order, pre-order, post-order).
-      - **Depth First Search** :fire: Explores as far as possible along a branch before backtracking
-      - **Breadth First Search** :fire: Explores all the neighbors of a node before moving to their child nodes.
-  3. **Sort**
-      - **Bubble Sort** :star: Comparing and swapping adjacent elements until the list is sorted.
-      - **Quick Sort** :snowflake: Quickly rearranges the list by picking a number and sorting the list around it, and it keeps doing this until the whole list is sorted.
-      - **Merge Sort** :snowflake: Divides the list into tiny parts, sorts each part, and then puts them together to make a sorted list
-  4. **Parallelism** :fire:
-      - **Concurrent** Make progress simultaneously, providing the illusion of parallelism.
-      - **Multithreading** Multiple threads within a single process run concurrently and share memory.
-      - **Multiprocessing** Independent processes run concurrently, with their own memory spaces.
-  5. **Sliding Window**
-  6. **Two Pointer**
-  7. **Dynamic Programming** :fire: Breaking them into smaller subproblems, solving each subproblem only once, and storing the results to avoid redundancy.
-  8. **Backtracking** :fire: Solving a tricky puzzle by trying different moves and undoing them if they don't work, until you find the right sequence of moves.
-  9. **Greedy**
+  1. Recursion :star:
+  2. Search
+      - Linear Search :star:
+      - Binary Search :star:
+      - Tree Traversal :star:
+      - Depth First Search :fire:
+      - Breadth First Search :fire:
+  3. Sort
+      - Bubble Sort :star:
+      - Quick Sort :snowflake:
+      - Merge Sort :snowflake:
+  4. Sliding Window :snowflake:
+  5. Two Pointer :snowflake:
+  6. Greedy :fire:
+  7. Dynamic Programming :fire:
+  8. Backtracking :fire:
+  9. Concurrencies & Parallelism :fire:
+      - Concurrency
+      - Parllellism
+      - Multithreading
+      - Multiprocessing
    
 ## Data Structure
 
-  1. **Array** :star: An array is a linear data structure that holds a fixed number of elements of the same data type. Elements are stored in contiguous memory locations, allowing efficient access based on their index.
-  2. **LinkedList** :star: A linked list is a linear data structure in which elements (nodes) are connected through pointers.
-      - **Single LinkedList** Each node points to the next node in the list.
-      - **Double LinkedList** Each node points to both the next and previous nodes.
-      - **Circular LinkedList** The last node points back to the first node, forming a loop.
-  3. **Stack** :star: Linear data structure that follows the Last-In-First-Out (LIFO) principle. 
-  4. **Queue** :star: Linear data structure that follows the First-In-First-Out (FIFO) principle.
-  5. **Tree** :snowflake: 
-      - **Tree**  Hierarchical data structure with nodes and edges.
-      - **Binary Tree** Tree where each node has at most two children.
-      - **Binary Search Tree** Type of binary tree with ordered values for efficient searching.
-      - **Heap** Is a specialized binary tree-based structure used for priority queues and efficient access to extreme values.
-  7. **Graph** :fire: Versatile data structure that consists of a set of nodes (vertices) connected by edges. 
-  8. **Hash** :fire: Fundamental data structure used for efficient data storage, retrieval, and manipulation.
-  9. **Bloom Filters** :fire:
+  1. Array :star:
+  2. LinkedList :star:
+      - Single LinkedList
+      - Double LinkedList
+      - Circular LinkedList
+  3. Stack** :star:
+  4. Queue** :star:
+  5. Tree** :snowflake: 
+      - Tree
+      - Binary Tree
+      - Binary Search Tree
+      - Heap
+  7. Graph :fire: 
+  8. Hash :fire:
+  9. Bloom Filters :fire:
 
 ## Software Architecture
 
@@ -143,7 +144,7 @@ Backend engineer roadmap from zero to one.
 
 ## Database
 
-  1. Principle
+  1. Principle :snowflake:
       - ACID Principle
       - CAP Theorem
   2. Transaction Isolation Level :snowflake:
@@ -152,7 +153,7 @@ Backend engineer roadmap from zero to one.
       - Read Commited
       - Read Uncommited
   3. Optimization
-      - Indexing :snowflake:
+      - Indexing :fire:
         - B-tree
         - B+ tree
         - LSM tree
@@ -177,10 +178,10 @@ Backend engineer roadmap from zero to one.
           - Elastic Search
           - Cassandra
           - Scylla
-      - Memory
+      - Memory :star:
           - Redis
           - Memcached
-      - Distributed
+      - Distributed :fire:
           - Debezium
 
 ## Protocol
@@ -198,7 +199,7 @@ Backend engineer roadmap from zero to one.
      
 ## Distributed System
 
-  1. Pattern
+  1. Pattern :snowflake:
      - Ambassador
        - Kubernetes Envoy 
      - Circuit Breaker
@@ -217,31 +218,31 @@ Backend engineer roadmap from zero to one.
          - Spark
        - Queue
          - Rabbit MQ
-  3. Database
-     - CAP theorem :fire:
+  3. Database :fire:
+     - CAP theorem
      - Eventually Consistency
      - Connection Pool
-  4. Race Condition
+  4. Race Condition :fire:
      - Optimistic Locking
      - Pessimistic Locking
-  5. Load Balancer
+  5. Load Balancer :snowflake:
      - Round robin
      - Worker pool
-  6. Thorttling
+  6. Thorttling :fire:
      - Rate Limiter
      - Circuit Breaker
-  7. Fusing
+  7. Fusing :fire:
      - Request Coalescing
      - Idempotency
      - Batch Processing
-  8. Logging
+  8. Logging :star:
      - Datadog
      - Logstash
-  9. Monitoring & Alerting
+  9. Monitoring & Alerting :fire:
      - Prometheus
      - Grafana
      - Pyroscope
- 10. Tracking
+ 10. Tracking :fire:
      - Open Telemetry
      - Zipkin
      - Jeager
@@ -254,16 +255,16 @@ Backend engineer roadmap from zero to one.
 
 ## DevOps    
 
-  1. Scaling
+  1. Scaling :star:
       - Vertical
       - Horizontal
-  2. Load Balancer
-  3. CDN (Content Delivery Network)
-  4. TCP
-  5. IP Address
-  6. DNS
-  7. Proxy & Reverse Proxy
-  8. SSL, TLS, HTTPS
+  2. Load Balancer :star:
+  3. CDN (Content Delivery Network) :star:
+  4. TCP :star:
+  5. IP Address :star:
+  6. DNS :star:
+  7. Proxy & Reverse Proxy :star:
+  8. SSL, TLS, HTTPS :snowflake:
   9. Container 
       - Docker :star:
       - Kubernetes :fire:
@@ -277,7 +278,7 @@ Backend engineer roadmap from zero to one.
 
   1. Authentication :star:
   2. Authorization :star:
-  3. Oauth2
+  3. Oauth2 :star:
   4. CSRF :star:
   5. XSS :star:
   6. Validation :star:
