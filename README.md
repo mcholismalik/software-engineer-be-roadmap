@@ -191,14 +191,19 @@ Backend engineer roadmap from zero to one.
 ## Protocol
 
   1. TCP / UDP :snowflake:
-  2. HTTP :star:
+     - [TCP vs UDP Crash Course](https://www.youtube.com/watch?v=qqRYkcta6IE&t=21s)
+  3. HTTP :star:
      - [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk&t=155s)
+     - [HTTP/1 to HTTP/2 to HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI)
   4. Rest API :star:
-  5. Grpc :snowflake:
-  6. Websocket :fire:
-  7. Graphql :snowflake:
-  8. Webhook :snowflake:
-  9. Sftp :star:
+     - [REST API Interview Questions (Beginner Level)](https://www.youtube.com/watch?v=faMdrSCVDzc)
+     - [REST API Interview Questions (Advanced Level)](https://www.youtube.com/watch?v=n2JQFFFEd0M)
+  6. Grpc :snowflake:
+     - [What is RPC? gRPC Introduction.](https://www.youtube.com/watch?v=gnchfOojMk4)
+  7. Websocket :fire:
+  8. Graphql :snowflake:
+  9. Webhook :snowflake:
+  10. Sftp :star:
      
 ## Distributed System
 
@@ -223,6 +228,8 @@ Backend engineer roadmap from zero to one.
          - Rabbit MQ
   3. Database :fire:
      - CAP theorem
+       - [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA&t=1s) 
+       - [CAP Theorem for System Design Interviews](https://www.youtube.com/watch?v=BTKBS_GdSms)
      - Eventually Consistency
      - Connection Pool
   4. Race Condition :fire:
@@ -291,8 +298,7 @@ Backend engineer roadmap from zero to one.
   5. XSS :star:
   6. Validation :star:
   7. Encryption :snowflake:
-      - Symetrical
-      - Asymetrical
+      - [Symmetrical vs asymmetrical Encryption Pros and Cons by Example](https://www.youtube.com/watch?v=Z3FwixsBE94)
   
 ## Contributing
 
