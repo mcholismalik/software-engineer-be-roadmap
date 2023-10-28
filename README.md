@@ -155,7 +155,9 @@ Backend engineer roadmap from zero to one.
       - Indexing :fire:
         - [B tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
         - [B+ tree](https://www.baeldung.com/cs/b-trees-vs-btrees)
-        - [LSM tree](https://www.youtube.com/watch?v=I6jB0nM9SKU) 
+        - LSM tree
+          - [The Secret Sauce Behind NoSQL: LSM Tree](https://www.youtube.com/watch?v=I6jB0nM9SKU&t=46s)
+          - [How databases scale writes: The power of the log](https://www.youtube.com/watch?v=_5vrfuwhvlQ) 
       - Replication :snowflake:
       - Sharding :fire:
           - Type
