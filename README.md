@@ -268,15 +268,20 @@ Backend engineer roadmap from zero to one.
   5. IP Address :star:
   6. DNS :star:
   7. Proxy & Reverse Proxy :star:
-  8. SSL, TLS, HTTPS :snowflake:
-  9. Container 
+      - [Proxy vs Reverse Proxy (Real-world Examples](https://www.youtube.com/watch?v=4NB0NDtOwIQ&t=14s)
+      - [Proxies | System Design Tutorials | Part 4 | 2020](https://www.youtube.com/watch?v=Nu-4Q3OoR4E)
+  9. SSL, TLS, HTTPS :snowflake:
+      - [SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo&t=1s)
+      - [Transport Layer Security, TLS 1.2 and 1.3 (Explained by Example)](https://www.youtube.com/watch?v=4NB0NDtOwIQ&t=14s)
+      - [What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
+  11. Container 
       - Docker :star:
       - Kubernetes :fire:
-  10. CI/CD
+  12. CI/CD
       - Jenkins :snowflake:
-  11. Ops :fire:
+  13. Ops :fire:
       - Git flow 
-  12. Serverless :fire:
+  14. Serverless :fire:
 
 ## Security    
 
