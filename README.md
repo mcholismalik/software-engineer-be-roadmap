@@ -34,8 +34,7 @@ Backend engineer roadmap from zero to one.
       - Linear Search :star:
       - Binary Search :star:
       - Tree Traversal :star:
-      - Depth First Search :fire:
-      - Breadth First Search :fire:
+      - BFS & DFS :fire:
   3. Sort
       - Bubble Sort :star:
       - Quick Sort :snowflake:
@@ -154,9 +153,9 @@ Backend engineer roadmap from zero to one.
       - Read Uncommited
   3. Optimization
       - Indexing :fire:
-        - [B-tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
-        - [B+ tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
-        - LSM tree
+        - [B tree](https://www.youtube.com/watch?v=aZjYr87r1b8)
+        - [B+ tree](https://www.baeldung.com/cs/b-trees-vs-btrees)
+        - [LSM tree] (https://www.youtube.com/watch?v=I6jB0nM9SKU) 
       - Replication :snowflake:
       - Sharding :fire:
           - Type
