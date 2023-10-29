@@ -229,6 +229,7 @@ Backend engineer roadmap from zero to one.
        - Stream
          - Kafka
          - Flink
+           - [Apache Kafka and Flink: Stateful Streaming Data Pipelines made easy with SQL](https://www.youtube.com/watch?v=5rCh64V1Fns)   
          - Spark
        - Queue
          - Rabbit MQ
