@@ -18,6 +18,7 @@ Backend engineer roadmap from zero to one.
   9. [Distributed System](#distributed-system)
   10. [DevOps](#devops)
   11. [Security](#security)
+  12. [Bonus](#bonus)
 
 ## Big O(n) Notation
 
@@ -42,9 +43,12 @@ Backend engineer roadmap from zero to one.
   4. Sliding Window :snowflake:
   5. Two Pointer :snowflake:
   6. Greedy :fire:
-  7. Dynamic Programming :fire:
-  8. Backtracking :fire:
-  9. Concurrencies & Parallelism :fire:
+      - [Jump Game - Greedy - Leetcode 55](https://www.youtube.com/watch?v=Yan0cv2cLy8)
+      - [Jump Game II - Greedy - Leetcode 45 - Python](https://www.youtube.com/watch?v=dJ7sWiOoK7g)
+      - [Gas Station - Greedy - Leetcode 134 - Python](https://www.youtube.com/watch?v=lJwbPZGo05A)
+  8. Dynamic Programming :fire:
+  9. Backtracking :fire:
+  10. Concurrencies & Parallelism :fire:
       - Concurrency
       - Parllellism
       - Multithreading
@@ -302,6 +306,30 @@ Backend engineer roadmap from zero to one.
   6. Validation :star:
   7. Encryption :snowflake:
       - [Symmetrical vs asymmetrical Encryption Pros and Cons by Example](https://www.youtube.com/watch?v=Z3FwixsBE94)
+    
+## Bonus
+  1. System Design
+      - [Uber System Design | Ola System Design | System Design Interview Question - Grab, Lyft](https://www.youtube.com/watch?v=Tp8kpMe-ZKw&pp=ygUXZGVzaWduIHJpZGUgc2hhcmlnbiBhcHA%3D)
+      - [Basic System Design for Uber or Lyft | System Design Interview Prep](https://www.youtube.com/watch?v=R_agd5qZ26Y)
+      - [Design Twitter - System Design Interview](https://www.youtube.com/watch?v=o5n85GRKuzk)
+      - [System Design for Twitter (Timeline, Live Updates, Tweeting) | System Design Interview Prep](https://www.youtube.com/watch?v=_QqpD0w8oPM)
+      - [Designing INSTAGRAM: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+      - [Facebook System Design | Instagram System Design | System Design Interview Question](https://www.youtube.com/watch?v=9-hjBGxuiEs&t=1584s)
+  2. Behavioral
+      - References
+        - [Amazon Behavioral Interview Questions | Leadership Principles Explained](https://www.youtube.com/watch?v=6p1m2nCE7jE&t=357s)
+        - [Cracking the Behavioral Interview for Software Developers](https://www.youtube.com/watch?v=ld0cvWnrVsU)
+        - [Most Tech Interview Prep is GARBAGE. (From a Principal Engineer at Amazon)](https://www.youtube.com/watch?v=0Z9RW_hhUT4)
+      - Summaries
+        - Tell me about yourself
+        - How persuade someone
+        - Simple solution to a complex problem
+        - Challanging project
+        - Failed at work
+        - Difficult decision
+        - Resolve conflict with team
+        - Why interest in company
+        - What you recently learn
   
 ## Contributing
 
