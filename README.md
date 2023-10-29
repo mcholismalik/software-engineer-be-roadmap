@@ -146,7 +146,10 @@ Backend engineer roadmap from zero to one.
 
   1. Principle :snowflake:
       - ACID Principle
+        - [ACID Transactions](https://www.databricks.com/glossary/acid-transactions#:~:text=ACID%20is%20an%20acronym%20that,operations%20are%20called%20transactional%20systems.)
+        - [Relational Database ACID Transactions (Explained by Example)](https://www.youtube.com/watch?v=pomxJOFVcQs)
       - CAP Theorem
+        - [Friendly Intro To the CAP Theorem (Consistency vs Availability vs Partition Tolerance)](https://www.youtube.com/watch?v=gkg-FAEXIkY)
   2. Transaction Isolation Level :snowflake:
       - Serializable
       - Repeateble Read
