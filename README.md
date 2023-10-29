@@ -35,7 +35,6 @@ Backend engineer roadmap from zero to one.
       - Linear Search :star:
       - Binary Search :star:
       - Tree Traversal :star:
-      - BFS & DFS :fire:
   3. Sort
       - Bubble Sort :star:
       - Quick Sort :snowflake:
@@ -45,9 +44,10 @@ Backend engineer roadmap from zero to one.
   6. Greedy :fire:
       - [Jump Game - Greedy - Leetcode 55](https://www.youtube.com/watch?v=Yan0cv2cLy8)
       - [Jump Game II - Greedy - Leetcode 45 - Python](https://www.youtube.com/watch?v=dJ7sWiOoK7g)
-  7. Dynamic Programming :fire:
-  8. Backtracking :fire:
-  9. Concurrencies & Parallelism :fire:
+  7. BFS & DFS :fire:
+  8. Dynamic Programming :fire:
+  9. Backtracking :fire:
+  10. Concurrencies & Parallelism :fire:
       - Concurrency
       - Parllellism
       - Multithreading
