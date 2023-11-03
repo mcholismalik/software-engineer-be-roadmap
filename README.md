@@ -40,18 +40,19 @@ Backend engineer roadmap from zero to one.
       - Quick Sort :snowflake:
       - Merge Sort :snowflake:
   4. Sliding Window :snowflake:
-  5. Two Pointer :snowflake:
-  6. Greedy :fire:
+     - [Longest Substring Without Repeating Characters - Leetcode 3 - Python](https://www.youtube.com/watch?v=wiGpQwVHdE0&list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV&index=2)
+  6. Two Pointer :snowflake:
+     - [Two Sum - Leetcode 1 - HashMap - Python](https://www.youtube.com/watch?v=KLlXCFG5TnA)
+     - [Two Sum II - Amazon Coding Interview Question - Leetcode 167 - Python](https://www.youtube.com/watch?v=cQ1Oz4ckceM)
+  8. Greedy :fire:
       - [Jump Game - Greedy - Leetcode 55](https://www.youtube.com/watch?v=Yan0cv2cLy8)
       - [Jump Game II - Greedy - Leetcode 45 - Python](https://www.youtube.com/watch?v=dJ7sWiOoK7g)
-  7. BFS & DFS :fire:
-  8. Dynamic Programming :fire:
-  9. Backtracking :fire:
-  10. Concurrencies & Parallelism :fire:
-      - Concurrency
-      - Parllellism
-      - Multithreading
-      - Multiprocessing
+  9. BFS & DFS :fire:
+      - [Binary Tree Maximum Path Sum - DFS - Leetcode 124 - Python](https://www.youtube.com/watch?v=Hr5cWUld4vU)
+  10. Dynamic Programming :fire:
+      - [Triangle - Dynamic Programming made Easy - Leetcode 120](https://www.youtube.com/watch?v=OM1MTokvxs4&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO&index=19)
+  11. Backtracking :fire:
+      - [Combinations - Leetcode 77 - Python](https://www.youtube.com/watch?v=q0s6m7AiM7o)
    
 ## Data Structure
 
@@ -72,6 +73,7 @@ Backend engineer roadmap from zero to one.
   9. Bloom Filters :fire:
       - [Bloom Filters | Algorithms You Should Know #2 | Real-world Examples](https://www.youtube.com/watch?v=V3pzxngeLqw&t=84s)
       - [Bloom Filters Explained by Example](https://www.youtube.com/watch?v=gBygn3cVP80&t=46s)
+        
 ## Software Architecture
 
   1. Paradigm :star:
@@ -100,6 +102,11 @@ Backend engineer roadmap from zero to one.
           - Facade
           - Bridge
           - Composite
+  4. Architecture
+      - Concurrencies & Parallelism :fire:
+        - [Concurrency vs Parallelism](https://www.baeldung.com/cs/concurrency-vs-parallelism)
+      - Multithreading & Multiprocessing :fire:
+        - [Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference)](https://www.youtube.com/watch?v=0vFgKr5bjWI&t=3s)
 
 ## Programming Language
 
