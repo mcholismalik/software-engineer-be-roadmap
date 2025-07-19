@@ -31,14 +31,10 @@ Backend engineer roadmap from zero to one.
 ## Algorithm
 
   1. Recursion :star:
-  2. Search
-      - Linear Search :star:
-      - Binary Search :star:
-      - Tree Traversal :star:
-  3. Sort
-      - Bubble Sort :star:
-      - Quick Sort :snowflake:
-      - Merge Sort :snowflake:
+  2. Search :star:
+      - [Binary Search - Leetcode 704 - Python](https://www.youtube.com/watch?v=s4DPM8ct1pI)
+  3. Sort :star:
+      - [Merge Sorted Array - Leetcode 88 - Python](https://www.youtube.com/watch?v=P1Ic85RarKY)
   4. Sliding Window :snowflake:
      - [Longest Substring Without Repeating Characters - Leetcode 3 - Python](https://www.youtube.com/watch?v=wiGpQwVHdE0&list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV&index=2)
   6. Two Pointer :snowflake:
