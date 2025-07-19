@@ -47,11 +47,13 @@ Backend engineer roadmap from zero to one.
   8. Greedy :fire:
       - [Jump Game - Greedy - Leetcode 55](https://www.youtube.com/watch?v=Yan0cv2cLy8)
       - [Jump Game II - Greedy - Leetcode 45 - Python](https://www.youtube.com/watch?v=dJ7sWiOoK7g)
-  9. BFS & DFS :fire:
+  9. BFS :fire:
+      - [Number Of Island - Leetcode 200 - Python](https://www.youtube.com/watch?v=pV2kpPD66nE)
+  10. DFS :fire:
       - [Binary Tree Maximum Path Sum - DFS - Leetcode 124 - Python](https://www.youtube.com/watch?v=Hr5cWUld4vU)
-  10. Dynamic Programming :fire:
+  11. Dynamic Programming :fire:
       - [Triangle - Dynamic Programming made Easy - Leetcode 120](https://www.youtube.com/watch?v=OM1MTokvxs4&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO&index=19)
-  11. Backtracking :fire:
+  12. Backtracking :fire:
       - [Combinations - Leetcode 77 - Python](https://www.youtube.com/watch?v=q0s6m7AiM7o)
    
 ## Data Structure
