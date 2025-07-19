@@ -55,6 +55,8 @@ Backend engineer roadmap from zero to one.
       - [Triangle - Dynamic Programming made Easy - Leetcode 120](https://www.youtube.com/watch?v=OM1MTokvxs4&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO&index=19)
   12. Backtracking :fire:
       - [Combinations - Leetcode 77 - Python](https://www.youtube.com/watch?v=q0s6m7AiM7o)
+      - [Word Search - Backtracking - Leetcode 79 - Python](https://www.youtube.com/watch?v=pfiQ_PS1g8E&list=PLot-Xpze53lf5C3HSjCnyFghlW0G1HHXo)
+      - [N-Queens - Backtracking - Leetcode 51 - Python](https://www.youtube.com/watch?v=Ph95IHmRp5M&list=PLot-Xpze53lf5C3HSjCnyFghlW0G1HHXo&index=10)
    
 ## Data Structure
 
