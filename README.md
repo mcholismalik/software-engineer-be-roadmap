@@ -34,7 +34,7 @@ Backend engineer roadmap from zero to one.
   2. Search :star:
       - [Binary Search - Leetcode 704 - Python](https://www.youtube.com/watch?v=s4DPM8ct1pI)
   3. Sort :star:
-      - [Merge Sorted Array - Leetcode 88 - Python](https://www.youtube.com/watch?v=P1Ic85RarKY)
+      - [Sort an Array - Leetcode 912 - Python](https://www.youtube.com/watch?v=MsYZSinhuFo)
   4. Sliding Window :snowflake:
      - [Longest Substring Without Repeating Characters - Leetcode 3 - Python](https://www.youtube.com/watch?v=wiGpQwVHdE0&list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV&index=2)
   6. Two Pointer :snowflake:
