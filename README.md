@@ -37,19 +37,18 @@ Backend engineer roadmap from zero to one.
       - [Sort an Array - Leetcode 912 - Python](https://www.youtube.com/watch?v=MsYZSinhuFo)
   4. Sliding Window :snowflake:
      - [Longest Substring Without Repeating Characters - Leetcode 3 - Python](https://www.youtube.com/watch?v=wiGpQwVHdE0&list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV&index=2)
-  6. Two Pointer :snowflake:
-     - [Two Sum - Leetcode 1 - HashMap - Python](https://www.youtube.com/watch?v=KLlXCFG5TnA)
+  5. Two Pointer :snowflake:
      - [Two Sum II - Amazon Coding Interview Question - Leetcode 167 - Python](https://www.youtube.com/watch?v=cQ1Oz4ckceM)
-  8. Greedy :fire:
+  6. Greedy :fire:
       - [Jump Game - Greedy - Leetcode 55](https://www.youtube.com/watch?v=Yan0cv2cLy8)
       - [Jump Game II - Greedy - Leetcode 45 - Python](https://www.youtube.com/watch?v=dJ7sWiOoK7g)
-  9. BFS :fire:
+  7. BFS :fire:
       - [Number Of Island - Leetcode 200 - Python](https://www.youtube.com/watch?v=pV2kpPD66nE)
-  10. DFS :fire:
+  8. DFS :fire:
       - [Binary Tree Maximum Path Sum - DFS - Leetcode 124 - Python](https://www.youtube.com/watch?v=Hr5cWUld4vU)
-  11. Dynamic Programming :fire:
+  9. Dynamic Programming :fire:
       - [Triangle - Dynamic Programming made Easy - Leetcode 120](https://www.youtube.com/watch?v=OM1MTokvxs4&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO&index=19)
-  12. Backtracking :fire:
+  10. Backtracking :fire:
       - [Combinations - Leetcode 77 - Python](https://www.youtube.com/watch?v=q0s6m7AiM7o)
       - [Word Search - Backtracking - Leetcode 79 - Python](https://www.youtube.com/watch?v=pfiQ_PS1g8E&list=PLot-Xpze53lf5C3HSjCnyFghlW0G1HHXo)
       - [N-Queens - Backtracking - Leetcode 51 - Python](https://www.youtube.com/watch?v=Ph95IHmRp5M&list=PLot-Xpze53lf5C3HSjCnyFghlW0G1HHXo&index=10)
